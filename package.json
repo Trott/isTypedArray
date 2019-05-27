@@ -1,5 +1,5 @@
 {
-  "name": "istypedarray",
+  "name": "@trott/istypedarray",
   "version": "1.0.0",
   "description": "Utility funciton to determine if an object is a TypedArray",
   "main": "index.js",
