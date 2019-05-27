@@ -1,0 +1,25 @@
+{
+  "name": "istypedarray",
+  "version": "1.0.0",
+  "description": "Utility funciton to determine if an object is a TypedArray",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trott/isTypedArray.git"
+  },
+  "keywords": [
+    "TypedArray"
+  ],
+  "author": "Rich Trott <rtrott@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trott/isTypedArray/issues"
+  },
+  "homepage": "https://github.com/Trott/isTypedArray#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
