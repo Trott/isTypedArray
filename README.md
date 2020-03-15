@@ -11,6 +11,6 @@ npm install @trott/istypedarray
 
 ```js
 const isTypedArray = require('@trott/istypedarray');
-isTypedExport(new Uint8ClampedArray([])); // true
-isTypedExport('fhqwhgads'); // false
+isTypedArray(new Uint8ClampedArray([])); // true
+isTypedArray('fhqwhgads'); // false
 ```
